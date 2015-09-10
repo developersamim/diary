@@ -1,0 +1,29 @@
+body{background: url('../images/mainbg1.jpg')  repeat fixed center center / cover  rgba(0, 0, 0, 0); padding:0; margin:0;}
+.main{ width: 98%;}
+.banner{text-align: center; padding-left: 20px;}
+h1.header{ font-size: 26px; color: #c72425; text-align: center; margin-top: 0}
+h1.header a{ color: #000;}
+h1.header a:hover{ text-decoration: none;}
+p.caption{ color: #c72425; margin-top: 10px; font-size: 14px;}
+ul.mainnavul{ clear: both; width: 100%; text-align: center;}
+ul.mainnavul li{ clear: both; width: 100%; border-bottom: 1px dotted #ccc; margin-bottom: 10px;}
+ul.mainnavul li:last-child{border-bottom: none;}
+ul.mainnavul li > a{ text-transform: uppercase; letter-spacing: 2px; font-stretch: ultra-condensed; color: #444 !important;}
+ul.mainnavul li > a.active{color: #c72425 !important;}
+ul.mainnavul li > a:hover{ color: #c72425 !important;}
+nav.mainnav{ border:0; background: 0;}
+
+footer{ margin-top: 20px;}
+footer p{ text-align: center;}
+
+div.wrap{ background: #fff; padding-top: 35px;}
+
+section div.section-wrap{ padding: 57px 0 0 65px; color: #fff;}
+.section-header{ color: #fff; margin-bottom: 0; text-align: center; text-transform: uppercase; background: url('../images/headerbar.jpg'), url('../images/headerbar.jpg'); background-position: 245px center, 615px center; background-repeat: no-repeat, no-repeat}
+.content-wrap{ padding-top: 5px;}
+.section-content{ color: #ccc;}
+section p.header-caption{color: #c72425; text-align: center;}
+hr.bar{ border-color: #c72425; margin-bottom: 0; border-width: 4px; margin-right: 8px}
+hr.bardown{border-color: #c72425; margin-top: 2px; margin-right: 8px; margin-bottom: 5px;}
+
+div.box{height: 200px; background: #fff}
